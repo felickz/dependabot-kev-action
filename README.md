@@ -1,3 +1,7 @@
+# ATTENTION
+This repo has been archived. For updated versions, please visit https://github.com/advanced-security/dependabot-kev-action
+
+
 Action to detect if any open Dependabot alert CVEs are in the list of [CISA Known Exploitable Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) and fail the workflow.
 
 ![image](https://user-images.githubusercontent.com/1760475/208767910-dc8e1192-d41e-489c-bf71-ea4df20025bf.png)
